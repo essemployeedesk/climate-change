@@ -13,14 +13,12 @@ const sansFont = DM_Sans({
   subsets: ["latin"],
   variable: "--font-ui-next",
   display: "swap",
-  weight: ["400", "500", "700"],
 });
 
 const monoFont = JetBrains_Mono({
   subsets: ["latin"],
   variable: "--font-mono-next",
   display: "swap",
-  weight: ["400", "500", "600"],
 });
 
 export const metadata: Metadata = {
